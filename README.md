@@ -102,12 +102,12 @@ The tuned model shows improvement across all key metrics while maintaining excel
 
 ### Required Libraries
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
-Or install all dependencies at once:
+Or install with specific tested versions from requirements.txt:
 ```bash
-pip install pandas==1.5.3 numpy==1.24.3 scikit-learn==1.3.0 matplotlib==3.7.1 seaborn==0.12.2
+pip install -r requirements.txt
 ```
 
 ## 💻 Usage
@@ -127,9 +127,7 @@ cd Heart-Disease-Prediction-Model
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt  # If requirements.txt exists
-# OR
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 3. Launch Jupyter Notebook:
