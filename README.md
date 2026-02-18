@@ -96,7 +96,7 @@ The tuned model shows improvement across all key metrics while maintaining excel
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.8+ (Python 3.9 or higher recommended)
 - Google Colab (optional, for running the notebook)
 - Jupyter Notebook (for local execution)
 
@@ -175,7 +175,7 @@ Heart-Disease-Prediction-Model/
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x** - Primary programming language
+- **Python 3.8+** - Primary programming language
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computing
 - **Scikit-learn** - Machine learning library
